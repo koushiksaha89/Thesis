@@ -1,0 +1,25 @@
+Consumer Segmentation
+1. https://towardsdatascience.com/customer-segmentation-in-python-9c15acf6f945
+1.1 https://colab.research.google.com/github/khalidmeister/Customer-Segmentation-using-Python/blob/master/Customer%20Segmentation%20in%20Python.ipynb#scrollTo=O4lwbL8UKSsV
+1.2 https://archive.ics.uci.edu/ml/datasets/online+retail
+
+
+Consumer Segmentation
+2.0 https://towardsdatascience.com/data-driven-growth-with-python-part-2-customer-segmentation-5c019d150444
+
+
+KDE
+4.0 https://medium.com/codex/customer-segmentation-with-k-means-in-python-18336fb915be
+
+
+definition of k-means algoritham:
+https://www.youtube.com/watch?v=4b5d3muPQmA
+https://www.youtube.com/watch?v=YWgcKSa_2ag
+
+what is kde
+https://www.youtube.com/watch?v=x5zLaWT5KPs
+
+Seaborn KDE and histogram plot
+    1. KDE plot https://www.youtube.com/watch?v=DCgPRaIDYXA
+    2. histogram https://www.youtube.com/watch?v=Bjz00ygERxY
+
