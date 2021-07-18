@@ -1,0 +1,170 @@
+https://www.kameleoon.com/en/blog/segmentation-audience
+https://www.analyticsvidhya.com/blog/2021/03/customer-profiling-and-segmentation-an-analytical-approach-to-business-strategy-in-retail-banking/
+https://www.pointillist.com/blog/behavioral-segmentation/
+http://www.turingfinance.com/ant-colony-optimization-finance/
+https://towardsdatascience.com/recency-frequency-monetary-model-with-python-and-how-sephora-uses-it-to-optimize-their-google-d6a0707c5f17
+
+https://www.analyticsvidhya.com/blog/2021/05/implement-of-decision-tree-using-chaid/ ==> CHAID Decision Tree
+
+add this https://medium.com/@senapati.dipak97/grid-search-vs-random-search-d34c92946318
+random search is better than grid search
+
+
+
+
+To Establish for promotional offers in Internet space and its effectiveness
+
+Online sales promotion and impulse buying online in the E-business age: A theoretical model approach
+Analysing the critical factors influencing consumers' e-impulse buying behavior
+The relationship between consumer experience, perceived value and impulsive buying behavior
+Understanding Online Impulse Buying Behavior in Social Commerce: A Systematic Literature Review
+
+The Effect of Online Sales Promotion Strategies on Consumers' Perceived Quality and Purchase Intention: A Moderating Effect of Brand Awareness
+What Factors Influence Online Product Sales? Online Reviews, Review System Curation, Online Promotional Marketing and Seller Guarantees Analysis
+Efficient Extraction of Target Users for Package Promotion in Big Social Networks
+
+
+Customer Segmentation Techniques
+
+Customer Segmentation Techniques on E-Commerce
+
+Customer Segmentation Based on a Novel Hierarchical Clustering Algorithm
+Customer Segmentation using K-means Clustering => Done Compared three different clustering algorithms
+Customer segmentation using centroid based and density based clustering algorithms => Similar to K-means and DBSCAN
+A Two-Phase Clustering Analysis for B2B Customer Segmentation => Done, K means ++ algorithms
+RFM Based Market Segmentation Approach Using Advanced K-means and Agglomerative Clustering: A Comparative Study
+Customer clustering using RFM analysis
+Segmentation of consumer's purchase behavior based on neural network =>Done
+Buyer targeting optimization: A unified customer segmentation perspective => Done
+Customer loyalty prediction in multimedia Service Provider Company with K-Means segmentation and C4.5 algorithm => Done
+Integrating SOM and fuzzy k-means clustering for customer classification in personalized recommendation system for non-text based transactional data => Done
+
+Customers fuzzy clustering and catalog segmentation in customer relationship management(2009)
+Segmenting port customer based on convolution kernels and k-aggregate clustering (2008)
+
+
+
+Other References
+1. Random Search for Hyper-Parameter Optimization Journal of Machine Learning Research 13 (2012) 281-305 (Random search is better then grid search)
+2. https://ieeexplore.ieee.org/document/1299577 Data clustering using particle swarm optimization
+3. E-Commerce Market Segmentation Based On The Antecedents Of Customer Satisfaction and Customer Retention
+4. AHP based research on segmentation method of customer's value in aviation cargo transportation
+5. Behavior Segmentation based Micro-Segmentation Approach for Health Insurance Industry
+6. Customer Segmentation on Returned Product Customers Using Time Series Clustering Analysis	
+
+
+
+
+
+Review Papers Or Comparision Papers:
+Credit Card Customer Segmentation and Target Marketing Based on Data Mining
+Customer Segmentation in a Travel Agency Dataset using Clustering Algorithms
+The practical approach in Customers segmentation by using the K-Means Algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================================
+Stage 1 Papers
+=========================================================
+
+Purchase Behavior analysis
+
+A Predictive Analysis Model of Customer Purchase Behavior using Modified Random Forest Algorithm in Cloud Environment
+Online Purchase Behavior Prediction and Analysis Using Ensemble Learning
+The Influence of Consumer’s Decision Making Process to Online Purchase Behavior Analysis
+Research on the Influence of Logistics Service Quality on Post-purchase Behavior in E-business
+Analysis on Consumer Repeat Purchase Behavior of Buying Green Products
+The analysis and mining of purchasing behavior in E-commerce
+Using statistical learning theory for purchase behavior prediction via direct observation of in-store behavior
+Economic analysis of consumer purchase intentions in electronic and traditional retail channels: competitive and strategic implications
+Research on a Hybrid Prediction Model for Purchase Behavior Based on Logistic Regression and Support Vector Machine
+Understanding Changes in Customer Purchase Behavior: Study of Attenuation Model for Multiparametric Purchase Preferences
+A Study on Analysis Methods of Latent Customer Purchase Behavior Focused on Membership Stage Growth
+Analysis of unplanned purchase rule based on rough set
+Research on Purchase Intentions of Residential Product Based on Structural Equation Model
+Prediction of Consumer Purchasing in a Grocery Store Using Machine Learning Techniques
+Similar Cluster recommendation of Product Purchases by Pages liked Analysis
+Study on Internet Purchase Behavioral Intention
+A Purchasing Sequences Data Mining Method for Customer Segmentation
+Customer Segmentation Model Based on Retail Consumer Behavior Analysis
+Examination of the effect of social login through analysis of user's purchasing tendency
+Exploring Consumers' Repeat Purchase Intentions in Green Economy
+Predicting customer behavior in online shopping using SVM classifier
+The Impact of Social Network: Understand Consumer’s Collaborative Purchase Behavior
+Data Mining: Consumer Behavior Analysis
+A Machine Learning Approach to Identify Potential Customer Based on Purchase Behavior
+The Impacts of E-Payment System and Impulsive Buying to Purchase Intention in E-commerce
+Customer Behavior Analysis Using Data Mining Techniques
+Factors Affecting Consumer Satisfaction of Online Purchase
+The Model of Online Purchasing Behavior Based on Website's Credibility and Its Inspiration for Enterprises
+
+
+
+The practical approach in Customers segmentation by using the K-Means Algorithm
+Artificial Neural Networks in Customer Segmentation
+Customers fuzzy clustering and catalog segmentation in customer relationship management
+Web Personalisation Through Incremental Individual Profiling and Support-based User Segmentation
+Hotel's online booking segementation for heterogenous customers
+A knowledge discovery and data mining process model in E-marketing
+Customer segmentation through multiple correspondence analysis
+Applying Customer Loyalty Classification with RFM and Naïve Bayes for Better Decision Making
+Customer Segmentation in a Travel Agency Dataset using Clustering Algorithms
+Segmentation of consumer's purchase behavior based on neural network
+Clustering Interest Graphs for Customer Segmentation Problems
+Big data assisted customer analysis and advertising architecture for real estate
+Customer clustering using RFM analysis
+RFM Based Market Segmentation Approach Using Advanced K-means and Agglomerative Clustering: A Comparative Study
+Segmentation problem in direct market campaigns: Modified Bat Algorithm
+Segmenting port customer based on convolution kernels and k-aggregate clustering
+Techniques used by E-commerce industries for Customer analysis
+Green vs. Non-Green Customer Behavior: A Self-Organizing Time Map over Greenness
+A Two-Layer Clustering Model for Mobile Customer Analysis
+Large-scale Data-driven Segmentation of Banking Customers
+Recommendation rules for an online game site based oncustomer lifetime value
+Customer Segmentation Methods Analysis Based on the Support-Significant Structure
+Study of Customer Lifetime Value Model Based on Survival-Analysis Methods
+Customer loyalty prediction in multimedia Service Provider Company with K-Means segmentation and C4.5 algorithm
+A Two-Phase Clustering Analysis for B2B Customer Segmentation
+Gaining Insight to Customer Behavior based on Time Series Data
+PurTreeClust: A Clustering Algorithm for Customer Segmentation from Massive Customer Transaction Data
+Customer segmentation using centroid based and density based clustering algorithms
+A Data Mining Approach to Customer Segment Based on Customer Value
+Customer Segmentation Techniques on E-Commerce
+Customer Segmentation Using Two-Step Mining Method Based on RFM Model
+Customer segmentation based on ant clustering algorithm
+Customer Segmentation Model Based on Retail Consumer Behavior Analysis
+Customer Segmentation Based on a Novel Hierarchical Clustering Algorithm
+Customer Segmentation using K-means Clustering
+A Case Study on Customer Segmentation by using Machine Learning Methods
+
+On customer segmentation and retention of telecom broadband in Pearl River Delta
+
+Online sales promotion and impulse buying online in the E-business age: A theoretical model approach
+Analysing the critical factors influencing consumers' e-impulse buying behavior
+Understanding Online Impulse Buying Behavior in Social Commerce: A Systematic Literature Review
+The relationship between consumer experience, perceived value and impulsive buying behavior
+
+The Impact of Sales Promotion on the C2C Online Purchasing Behavior: An Empirical Study
+The Effect of Online Sales Promotion Strategies on Consumers' Perceived Quality and Purchase Intention: A Moderating Effect of Brand Awareness
+What Factors Influence Online Product Sales? Online Reviews, Review System Curation, Online Promotional Marketing and Seller Guarantees Analysis
+Forecasting Promotional Sales Within the Neighbourhood
+Efficient Extraction of Target Users for Package Promotion in Big Social Networks
+Social media and customer behavior analytics for personalized customer engagements
+
+
+
+
+Springer Link
+Market Trends and Customer Segmentation for Data of Electronic Retail Store
+Data Mining for Customer Segmentation in Personal Financial Market (New Algorithm)
+Segmentation of Retail Consumers with Soft Clustering Approach
+
